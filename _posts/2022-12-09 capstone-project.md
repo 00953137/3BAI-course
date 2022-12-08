@@ -17,6 +17,9 @@ Final project: unknown
 
 ---
 ### AI 模型說明
+<iframe width="835" height="470" src="https://www.youtube.com/embed/DtzN5vtEgOk" title="RL-Robocar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/stock_dqn.png?raw=true) 
 
 1. Download pre-trained InterNet from [here](https://drive.google.com/drive/folders/1BET1f5p2-1OBOz6aNLuPBAVs_9NLz5Jo?usp=sharing)
 2. Put the model at `demo` folder
