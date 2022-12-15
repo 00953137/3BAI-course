@@ -33,8 +33,4 @@ title="RL-Robocar" frameborder="0" allow="accelerometer; autoplay; clipboard-wri
 2. Run `python camera_visualize.py`
 
 
-<br>
-<br>
-
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
-
