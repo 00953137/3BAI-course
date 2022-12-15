@@ -10,7 +10,7 @@ Pose Estimation includes Applications, Body Pose, Head Pose, Hand Pose , Object 
 
 ---
 ### Pose Estimation Applications
-* **[健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
+* **[健身鏡子](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
 ![](https://johnsonfitnesslive.com/images/mirrorPro-parallax-bg2-img03.gif)
 
 * **[AI健身教練](https://fc.bnext.com.tw/articles/view/1226)**<br>
